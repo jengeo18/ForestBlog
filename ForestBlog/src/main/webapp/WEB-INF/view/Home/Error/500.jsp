@@ -11,14 +11,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport"
           content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
-
-    <title>抱歉，无法找到该页面！</title>
+    <title>抱歉，页面出错！</title>
     <link rel="stylesheet" href="/css/style.css">
-
     <link rel="stylesheet" type="text/css" href="/plugin/404/main.css">
     <style>
-
     </style>
 </head>
 <body>
@@ -47,7 +43,6 @@
                         <div id="btn">
                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                             <a class="button" href="/">返回首页</a>
-                            <a class="button" href="http://wpa.qq.com/msgrd?v=3&uin=847064370&site=qq&menu=yes">联系站长</a>
                             <div class="clear"></div>
                         </div>
                         </center>
@@ -56,7 +51,6 @@
             </main><!-- .site-main -->
 
         </div>
-      <%--  博客主体-左侧正文 end--%>
 
 
         <div class="clear"></div>

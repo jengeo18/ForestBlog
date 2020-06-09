@@ -8,7 +8,7 @@
 
 <rapid:override name="breadcrumb">
     <nav class="breadcrumb">
-        <div class="bull"><i class="fa fa-volume-up"></i></div>
+        <div class="bull"><i class="fa fa-volume-up">&nbsp;&nbsp;暂无消息</i></div>
         <div id="scrolldiv">
             <div class="scrolltext">
                 <ul style="margin-top: 0px;">
@@ -30,19 +30,12 @@
             <c:forEach items="${pageInfo.list}" var="a">
 
                 <article class="post type-post">
-
                     <figure class="thumbnail">
-                        <a href="/article/${a.articleId}">
-                            <img width="280" height="210"
-                                 src="/img/thumbnail/random/img_${a.articleId%15}.jpg"
-                                 class="attachment-content size-content wp-post-image"
-                                 alt="${a.articleTitle}">
-                        </a>
                         <span class="cat">
-                                <a href="/category/${a.categoryList[a.categoryList.size()-1].categoryId}">
-                                        ${a.categoryList[a.categoryList.size()-1].categoryName}
-                                </a>
-                            </span>
+                            <a href="/category/${a.categoryList[a.categoryList.size()-1].categoryId}">
+                                    ${a.categoryList[a.categoryList.size()-1].categoryName}
+                            </a>
+                        </span>
                     </figure>
 
                     <header class="entry-header">

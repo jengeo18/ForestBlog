@@ -41,9 +41,6 @@
     <%@ include file="part/header.jsp" %>
     <div id="content" class="site-content" style="transform: none;">
         <rapid:block name="left"></rapid:block>
-        <rapid:block name="right">
-            <%@ include file="part/sidebar-1.jsp" %>
-        </rapid:block>
     </div>
     <div class="clear"></div>
     <rapid:block name="link"></rapid:block>

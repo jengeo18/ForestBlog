@@ -75,9 +75,7 @@
 
 
                     </div>
-
                     <br><br>
-
                     <footer class="single-footer">
                         <ul class="single-meta">
                             <li class="r-hide">
@@ -91,14 +89,9 @@
                             <li>A+</li>
                         </ul>
                     </footer><!-- .entry-footer -->
-
-
                     <div class="clear"></div>
                 </div><!-- .entry-content -->
             </article><!-- #post -->
-
-
-
         </main>
         <!-- .site-main -->
     </div>

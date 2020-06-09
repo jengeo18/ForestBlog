@@ -92,11 +92,11 @@
                                 </span>
                             </div>
                             <div class="share-sd">
-                                        <span class="share-s" style="margin-top: 25px!important;">
-                                            <a href="javascript:void(0)" id="share-s" title="分享">
-                                                <i class="fa fa-share-alt"></i>分享
-                                            </a>
-                                        </span>
+                                <span class="share-s" style="margin-top: 25px!important;">
+                                    <a href="javascript:void(0)" id="share-s" title="分享">
+                                        <i class="fa fa-share-alt"></i>分享
+                                    </a>
+                                </span>
                                 <div id="share">
                                     <ul class="bdsharebuttonbox bdshare-button-style1-16" data-bd-bind="1503997585792">
                                         <li><a title="更多" class="bds_more fa fa-plus-square" data-cmd="more"

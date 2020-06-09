@@ -213,7 +213,7 @@ a, button, input {
 
 /** 头部 **/
 #masthead {
-    height: 120px;
+    height: 90px;
 }
 
 .logo-site, .logo-sites {
@@ -526,7 +526,7 @@ a, button, input {
 }
 
 .main-nav {
-    float: right;
+    float: left;
     margin: 0;
 }
 
@@ -605,7 +605,7 @@ a, button, input {
 }
 /*一级样式*/
 #site-nav-wrap {
-    float: right;
+    float: left;
     max-width: 70%;
 }
 
